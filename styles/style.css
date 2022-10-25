@@ -95,6 +95,7 @@ form .userdetails .input-box{
 }
 
 .userdetails .input-box input{
+  box-sizing: border-box;
   height: 45px;
   width: 100%;
   outline: none;
@@ -102,6 +103,7 @@ form .userdetails .input-box{
   border: 3px solid white;
   font-size: 16px;
   transition: all 0.5s ease;
+  padding-left: 15px;
 }
 
 
